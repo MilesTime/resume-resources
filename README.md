@@ -25,6 +25,9 @@ The files here include technical reports, project documentation, research papers
 
 You can view specific documents directly via GitHub Pages links.
 
+- [Airbnb House Price Prediction.pdf](Airbnb%20House%20Price%20Prediction.pdf)
+- [Certifications & Courses.pdf](Certifications%20%26%20Courses.pdf)
+
 ---
 
 ## 🔹 Notes
